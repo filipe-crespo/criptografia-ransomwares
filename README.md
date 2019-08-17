@@ -1,0 +1,2 @@
+# criptografiaRansomwares
+Ransomwares in python
